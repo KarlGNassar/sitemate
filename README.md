@@ -7,5 +7,6 @@
 
 
 ## Things to improve (due to time constraints and non production env):
+- implement UPDATE functionality
 - use elastic search for logs
 - improve UI and UX
